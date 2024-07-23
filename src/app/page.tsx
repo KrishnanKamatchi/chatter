@@ -22,7 +22,7 @@ export default function Home() {
     <main className="flex justify-center items-center min-h-screen light:text-black ">
       <div className=" bg-green-950 ring-1 ring-white shadow-lg shadow-green-400 p-10 m-5 rounded-md">
         <h1 className="text-3xl font-bold text-white flex">
-          Chatter
+          Chatters
           <Image
             src={chatIcon}
             width={25}
